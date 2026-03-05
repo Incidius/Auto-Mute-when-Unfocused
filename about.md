@@ -4,5 +4,6 @@ This mod will automatically mute Geometry Dash when you aren't focused on it. Fo
 
 
 
-This mod works for fullscreen (borderless and non-borderless) and windowed. Vanilla GD only had this capability for fullscreen non-borderless.
+This mod works for Windows versions of GD in fullscreen (borderless and non-borderless) and windowed modes. Vanilla GD only had this capability for fullscreen non-borderless.
+
 
