@@ -8,7 +8,7 @@
 	},
 	"id": "incidius.auto-mute-when-unfocused",
 	"name": "Auto-Mute when Unfocused",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Incidius",
 	"description": "This mod will automatically mute Geometry Dash when you aren't focused on it. For example, if you alt tab or you click on another window then you won't hear any noise from the game until you click back on GD.",
 	"dependencies": {
